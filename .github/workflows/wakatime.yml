@@ -1,6 +1,8 @@
 name: Waka Readme
 
 on:
+  watch:
+    types: started
   push:
     branches: [ master ]
   schedule:
@@ -10,6 +12,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
