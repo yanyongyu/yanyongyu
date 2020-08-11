@@ -7,8 +7,6 @@ I'm **yanyongyu**
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot)
 - 💬 Ask me about: [NoneBot](https://github.com/nonebot)
 
-📊 **This week I spent my time on**
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
