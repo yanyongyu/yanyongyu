@@ -8,8 +8,6 @@ I'm **yanyongyu**
 - 💬 Ask me about: [NoneBot](https://github.com/nonebot)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 📊 **This week I spent my time on** 
 
 ```text
