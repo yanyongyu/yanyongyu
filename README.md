@@ -4,8 +4,8 @@ I'm **yanyongyu**
 
 - 🔭 I’m currently working on: student
 - 🌱 I’m currently learning: Python, VueJS
-- 👯 I’m collaborating on: [NoneBot](github.com/nonebot)
-- 💬 Ask me about: [NoneBot](github.com/nonebot)
+- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot)
+- 💬 Ask me about: [NoneBot](https://github.com/nonebot)
 
 📊 **This week I spent my time on**
 
