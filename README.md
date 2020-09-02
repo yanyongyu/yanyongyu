@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanyongyu&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanyongyu&count_private=true&show_icons=true&bg_color=15,FFFFFF,ECE9E6" />
 </a>
 
 I'm **yanyongyu**
