@@ -7,9 +7,9 @@
 I'm **yanyongyu**
 
 - 🔭 I’m currently working on: student
-- 🌱 I’m currently learning: Python, VueJS
-- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot)
-- 💬 Ask me about: [NoneBot](https://github.com/nonebot)
+- 🌱 I’m currently learning: Python, Reverse
+- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [QQ Bot](https://github.com/Mrs4s/go-cqhttp)
+- 💬 Ask me about: [NoneBot](https://github.com/nonebot), [CAI](https://github.com/cscs181/CAI)
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
