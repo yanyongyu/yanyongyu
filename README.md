@@ -7,8 +7,8 @@
 I'm **yanyongyu**
 
 - 🔭 I’m currently working on: student
-- 🌱 I’m currently learning: Python, Reverse
-- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [QQ Bot](https://github.com/Mrs4s/go-cqhttp)
+- 🌱 I’m currently learning: Python, Reverse, Cyber Security
+- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [QQ Bot](https://github.com/Mrs4s/go-cqhttp), [Rubbish Shell](https://github.com/yanyongyu/rubbish), [PLinf Language](https://github.com/yanyongyu/PLinf)
 - 💬 Ask me about: [NoneBot](https://github.com/nonebot), [CAI](https://github.com/cscs181/CAI)
 
 🌟 **My Skills**  
