@@ -22,7 +22,7 @@ I'm **yanyongyu**
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C393%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -64,5 +64,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2022 03:08:15 UTC
+ Last Updated on 15/06/2022 16:27:16 UTC
 <!--END_SECTION:waka-->
