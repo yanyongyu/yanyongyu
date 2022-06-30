@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,5 +62,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2022 02:25:12 UTC
+ Last Updated on 30/06/2022 16:32:33 UTC
 <!--END_SECTION:waka-->
