@@ -10,11 +10,12 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: yanyongyu/waka-readme-stats@feat/custom-committer
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "yanyongyu"
+          COMMIT_EMAIL: "42488585+yanyongyu@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
