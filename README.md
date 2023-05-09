@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanyongyu&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-- 🌱 I’m currently learning: Reverse, Cyber Security
+- 🌱 I’m currently learning: NLP, Rust, Reverse, Cyber Security
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [QQ Bot](https://github.com/Mrs4s/go-cqhttp)
 - 💬 Ask me about: [NoneBot](https://github.com/nonebot), [CAI](https://github.com/cscs181/CAI)
 
