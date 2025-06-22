@@ -31,20 +31,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 mins             ████████████████░░░░░░░░░   62.92 % 
-Other                    11 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nonebot2                 23 mins             ███████████████████░░░░░░   74.53 % 
-vllm                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-nonebot-plugin-NobleDuel 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-nonebot_plugin_zzzpanel  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -60,5 +56,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 02:04:42 UTC
+ Last Updated on 22/06/2025 02:23:05 UTC
 <!--END_SECTION:waka-->
