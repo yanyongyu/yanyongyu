@@ -26,6 +26,8 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C713%20hrs%2044%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -67,5 +69,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 02:32:16 UTC
+ Last Updated on 19/05/2026 02:31:08 UTC
 <!--END_SECTION:waka-->
