@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C799%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C799%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,41 +34,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 40 mins      ███████████████░░░░░░░░░░   60.67 % 
-Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python                   8 hrs 3 mins        ███████████████░░░░░░░░░░   60.67 % 
+Other                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████░░░░░░░░░░░░   50.90 % 
-Chrome                   7 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.67 % 
-Cursor                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Chrome                   8 hrs 8 mins        ███████████████░░░░░░░░░░   61.28 % 
+VS Code                  4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Cursor                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          8 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-githubkit                3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-nonebot2                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-nonebot-plugin-group-hist1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-nonebot-plugin-lottery-si13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+githubkit                3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+PRIVATE PROJECT          3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+nonebot2                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+nonebot-plugin-group-hist1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+plugin-filehost          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Linux                    8 hrs 54 mins       █████████████░░░░░░░░░░░░   50.64 % 
-Mac                      8 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.36 % 
+Mac                      8 hrs 21 mins       ████████████████░░░░░░░░░   62.89 % 
+Linux                    4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   59 repos            █████████████████░░░░░░░░   68.60 % 
-Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   60 repos            █████████████████░░░░░░░░   68.97 % 
+Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
 
 
- Last Updated on 17/06/2026 02:49:21 UTC
+ Last Updated on 18/06/2026 02:44:55 UTC
 <!--END_SECTION:waka-->
