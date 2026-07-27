@@ -34,27 +34,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.78 % 
-Bash                     4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-Other                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Python                   4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
+Bash                     4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
+Other                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
 VS Code                  5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
-Chrome                   3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Cursor                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Chrome                   3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Cursor                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          8 hrs 24 mins       ██████████████████░░░░░░░   70.34 % 
-nonebot2                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+PRIVATE PROJECT          8 hrs 24 mins       ██████████████████░░░░░░░   70.35 % 
+nonebot2                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 nonebot_plugin_easy_aidra24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 adapter-qq               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 nonebot-plugin-onebot-luc12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Linux                    8 hrs 20 mins       █████████████████░░░░░░░░   69.80 % 
-Mac                      3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+Linux                    8 hrs 20 mins       █████████████████░░░░░░░░   69.81 % 
+Mac                      3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +70,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:55:37 UTC
+ Last Updated on 27/07/2026 02:03:39 UTC
 <!--END_SECTION:waka-->
