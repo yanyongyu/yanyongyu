@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C352%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C358%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2044%20mins-blue?style=flat)
 
@@ -36,27 +36,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
-Bash                     2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-YAML                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Python                   7 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.42 % 
+Bash                     3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 5 mins        ██████████████░░░░░░░░░░░   56.41 % 
-Chrome                   2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Cursor                   2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+VS Code                  9 hrs 10 mins       ██████████████░░░░░░░░░░░   56.27 % 
+Cursor                   4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Chrome                   2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          7 hrs 35 mins       ██████████████████░░░░░░░   70.43 % 
-githubkit                1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-nonebot2                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-nonebot_plugin_easy_aidra24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Relax                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+PRIVATE PROJECT          13 hrs 12 mins      ████████████████████░░░░░   80.97 % 
+githubkit                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+nonebot2                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+nonebot_plugin_easy_aidra24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Relax                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       ███████████████████░░░░░░   76.75 % 
-Mac                      2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Linux                    13 hrs 54 mins      █████████████████████░░░░   85.22 % 
+Mac                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +78,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 01:30:05 UTC
+ Last Updated on 31/07/2026 01:57:26 UTC
 <!--END_SECTION:waka-->
