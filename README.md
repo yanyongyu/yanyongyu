@@ -36,34 +36,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-Other                    3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-YAML                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
+Other                    3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+YAML                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
-Chrome                   3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Agent                    2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Cursor                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+VS Code                  7 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.58 % 
+Chrome                   3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Agent                    2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Cursor                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          12 hrs 21 mins      ██████████████████░░░░░░░   73.61 % 
-nonebot2                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-LuckyLilliaBot           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-adapter-qq               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+PRIVATE PROJECT          12 hrs 21 mins      ███████████████████░░░░░░   75.02 % 
+nonebot2                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+LuckyLilliaBot           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+adapter-qq               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Linux                    12 hrs 59 mins      ███████████████████░░░░░░   77.32 % 
-Mac                      3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Linux                    12 hrs 59 mins      ████████████████████░░░░░   78.80 % 
+Mac                      3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 24 mins (32.25%)
+⏱ AI Coding Time: 5 hrs 24 mins (32.87%)
 
 ✍️ 0 lines written by AI, 91 lines written by hand (0.0% AI-written)
 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 00:45:32 UTC
+ Last Updated on 24/08/2026 00:43:49 UTC
 <!--END_SECTION:waka-->
