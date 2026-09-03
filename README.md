@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C413%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C417%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,50 +36,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
-Python                   3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Bash                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-TOML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Git Config               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Other                    7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Python                   4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Bash                     3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+TOML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Git Config               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Agent                    7 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.22 % 
-Chrome                   5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-VS Code                  4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Cursor                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+VS Code                  6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
+Agent                    4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Chrome                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Cursor                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          11 hrs 51 mins      ████████████████░░░░░░░░░   65.00 % 
-githubkit                1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Unknown Project          1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-nonebot2                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-adapter-qq               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+PRIVATE PROJECT          13 hrs 20 mins      ██████████████████░░░░░░░   72.98 % 
+githubkit                1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+nonebot2                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Unknown Project          54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+httpx2                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Linux                    13 hrs 1 min        ██████████████████░░░░░░░   71.32 % 
-Mac                      5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Linux                    13 hrs 37 mins      ███████████████████░░░░░░   74.54 % 
+Mac                      4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (44.44%)
+⏱ AI Coding Time: 5 hrs 12 mins (28.52%)
 
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
 
-🔤 2,737,356 Input Tokens, 2,737,356 Output Tokens
+🔤 2,708,935 Input Tokens, 2,708,935 Output Tokens
 
-💵 $28.15 Estimated AI Cost This Week
+💵 $27.82 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 386 AI Prompts
+🧠 28 AI Sessions, 308 AI Prompts
 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 28,379 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 35,196 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 02:05:11 UTC
+ Last Updated on 03/09/2026 02:10:59 UTC
 <!--END_SECTION:waka-->
