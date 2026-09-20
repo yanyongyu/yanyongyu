@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C455%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C455%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,42 +36,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-Python                   6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Other                    5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Cuda                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Bash                     8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.52 % 
+Python                   6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Other                    5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Cuda                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 2 mins       ██████████████████░░░░░░░   71.36 % 
-Agent                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Chrome                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  16 hrs 17 mins      ██████████████████░░░░░░░   71.68 % 
+Agent                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Chrome                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          19 hrs 47 mins      ██████████████████████░░░   88.02 % 
-nonebot2                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-githubkit                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+PRIVATE PROJECT          20 hrs 2 mins       ██████████████████████░░░   88.15 % 
+nonebot2                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+githubkit                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 clients                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    20 hrs 20 mins      ███████████████████████░░   90.53 % 
-Mac                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Linux                    20 hrs 36 mins      ███████████████████████░░   90.63 % 
+Mac                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 32 mins (60.26%)
+⏱ AI Coding Time: 13 hrs 44 mins (60.48%)
 
 ✍️ 0 lines written by AI, 2,546 lines written by hand (0.0% AI-written)
 
-🔤 42,047,214 Input Tokens, 39,708,865 Output Tokens
+🔤 42,185,105 Input Tokens, 39,741,382 Output Tokens
 
-💵 $594.46 Estimated AI Cost This Week
+💵 $606.49 Estimated AI Cost This Week
 
-🧠 128 AI Sessions, 314 AI Prompts
+🧠 129 AI Sessions, 314 AI Prompts
 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Alwaysday                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -97,5 +97,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 02:21:43 UTC
+ Last Updated on 20/09/2026 02:31:00 UTC
 <!--END_SECTION:waka-->
