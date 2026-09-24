@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C462%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C466%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,49 +36,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 34 mins      ██████████████░░░░░░░░░░░   54.32 % 
-Bash                     6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   10 hrs 20 mins      █████████████░░░░░░░░░░░░   53.37 % 
+Bash                     7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 21 mins      ██████████████████████░░░   89.13 % 
-Chrome                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Agent                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+VS Code                  17 hrs 9 mins       ██████████████████████░░░   88.50 % 
+Chrome                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          17 hrs 39 mins      ███████████████████████░░   90.75 % 
-nonebot2                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-githubkit                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-nonebot-plugin-advisor   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+PRIVATE PROJECT          17 hrs 15 mins      ██████████████████████░░░   89.04 % 
+nonebot2                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+githubkit                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+nonebot-plugin-advisor   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 nonebot-plugin-maestro   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    17 hrs 39 mins      ███████████████████████░░   90.68 % 
-Mac                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Linux                    17 hrs 9 mins       ██████████████████████░░░   88.50 % 
+Mac                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 39 mins (59.87%)
+⏱ AI Coding Time: 11 hrs 2 mins (56.99%)
 
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
 
-🔤 5,670,674 Input Tokens, 1,770,597 Output Tokens
+🔤 4,735,505 Input Tokens, 799,856 Output Tokens
 
-💵 $466.32 Estimated AI Cost This Week
+💵 $443.14 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 115 AI Prompts
+🧠 24 AI Sessions, 91 AI Prompts
 
 Alwaysday                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 37,861 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 5,528 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -95,5 +93,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 02:32:06 UTC
+ Last Updated on 24/09/2026 02:21:21 UTC
 <!--END_SECTION:waka-->
