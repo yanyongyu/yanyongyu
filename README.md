@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C466%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C468%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,47 +36,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 20 mins      █████████████░░░░░░░░░░░░   53.37 % 
-Bash                     7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python                   7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
+Bash                     7 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 9 mins       ██████████████████████░░░   88.50 % 
-Chrome                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+VS Code                  14 hrs 2 mins       █████████████████████░░░░   83.72 % 
+Chrome                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          17 hrs 15 mins      ██████████████████████░░░   89.04 % 
-nonebot2                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-githubkit                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-nonebot-plugin-advisor   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-nonebot-plugin-maestro   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+PRIVATE PROJECT          14 hrs 15 mins      █████████████████████░░░░   85.05 % 
+nonebot2                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+githubkit                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+nonebot-plugin-advisor   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+nonebot-plugin-maestro   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Linux                    17 hrs 9 mins       ██████████████████████░░░   88.50 % 
-Mac                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Linux                    14 hrs 2 mins       █████████████████████░░░░   83.72 % 
+Mac                      2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 2 mins (56.99%)
+⏱ AI Coding Time: 6 hrs 55 mins (41.33%)
 
-✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
 
-🔤 4,735,505 Input Tokens, 799,856 Output Tokens
+🔤 3,247,625 Input Tokens, 658,348 Output Tokens
 
-💵 $443.14 Estimated AI Cost This Week
+💵 $282.34 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 91 AI Prompts
+🧠 25 AI Sessions, 82 AI Prompts
 
 Alwaysday                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,528 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 7,337 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -93,5 +93,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 02:21:21 UTC
+ Last Updated on 25/09/2026 02:37:34 UTC
 <!--END_SECTION:waka-->
