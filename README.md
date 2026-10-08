@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C476%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C476%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%201%20min-blue?style=flat)
 
@@ -36,18 +36,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     44 mins             ████████████████████████░   97.36 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TOML                     45 mins             ███████████████████████░░   92.70 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Chrome                   45 mins             █████████████████████████   100.00 % 
+Chrome                   48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-githubkit                44 mins             ████████████████████████░   97.51 % 
-action-githubkit         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+githubkit                40 mins             █████████████████████░░░░   83.17 % 
+QQ-GitHub-Bot            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+action-githubkit         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+python-pdm-template      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+AF-Adapter               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +72,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 03:26:09 UTC
+ Last Updated on 08/10/2026 03:40:58 UTC
 <!--END_SECTION:waka-->
