@@ -32,7 +32,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC
