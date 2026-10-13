@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ju4tCode's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 662, Total Commits  (last year) : 720, Total PRs: 1016, Total Issues: 178, Contributed to (last year): 9</desc>
+        <title id="titleId">Ju4tCode&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 662, Total Commits  (last year) : 721, Total PRs: 1016, Total Issues: 178, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 12.081892354352993;
+        stroke-dashoffset: 12.066137813406769;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -103,6 +104,7 @@
 
         
         <defs>
+          
           <linearGradient
             id="gradient"
             gradientTransform="rotate(15)"
@@ -110,11 +112,13 @@
           >
             <stop offset="0%" stop-color="#f2f7fd" />,<stop offset="100%" stop-color="#E0EAFC" />
           </linearGradient>
+          
         </defs>
         
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -136,7 +140,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Ju4tCode's GitHub Stats</text>
+      >Ju4tCode&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -169,7 +173,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >662</text>
@@ -184,10 +188,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
-      >720</text>
+      >721</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +203,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >1k</text>
@@ -214,7 +218,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >178</text>
@@ -229,7 +233,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >9</text>
