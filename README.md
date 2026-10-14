@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C480%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C481%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,33 +36,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     2 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.85 % 
-YAML                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-TOML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Bash                     3 hrs 22 mins       ██████████████░░░░░░░░░░░   55.51 % 
+YAML                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TOML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 32 mins       ██████████████░░░░░░░░░░░   56.50 % 
-VS Code                  1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.92 % 
-Agent                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Chrome                   3 hrs 24 mins       ██████████████░░░░░░░░░░░   56.04 % 
+VS Code                  2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+Agent                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          1 hr 58 mins        ███████████░░░░░░░░░░░░░░   43.93 % 
-nonebot2                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-githubkit                40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-nonemoji                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-action-githubkit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+PRIVATE PROJECT          2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
+nonebot2                 1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.92 % 
+githubkit                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+nonemoji                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+yanyongyu                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       ██████████████░░░░░░░░░░░   56.50 % 
-Linux                    1 hr 57 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
+Mac                      3 hrs 24 mins       ██████████████░░░░░░░░░░░   56.04 % 
+Linux                    2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (4.58%)
+⏱ AI Coding Time: 16 mins (4.57%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -70,12 +70,12 @@ Linux                    1 hr 57 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 288 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -92,5 +92,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 13:53:12 UTC
+ Last Updated on 14/10/2026 02:48:59 UTC
 <!--END_SECTION:waka-->
