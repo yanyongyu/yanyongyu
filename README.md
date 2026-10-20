@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C484%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C484%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2017%20mins-blue?style=flat)
 
@@ -36,34 +36,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
-Bash                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-YAML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+SSH Config               2 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.27 % 
+Bash                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 23 mins       ████████████████████░░░░░   80.41 % 
-VS Code                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Agent                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Chrome                   3 hrs 51 mins       █████████████████████░░░░   82.78 % 
+VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-nonebot2                 2 hrs 52 mins       █████████████░░░░░░░░░░░░   52.55 % 
-PRIVATE PROJECT          1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-adapter-qq               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-waka-readme-stats        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-yanyongyu                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+nonebot2                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   50.61 % 
+PRIVATE PROJECT          49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+adapter-qq               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+waka-readme-stats        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+yanyongyu                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       ████████████████████░░░░░   81.46 % 
-Linux                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Mac                      3 hrs 54 mins       █████████████████████░░░░   84.01 % 
+Linux                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (5.09%)
+⏱ AI Coding Time: 4 mins (1.56%)
 
 ✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
@@ -71,12 +71,12 @@ Linux                    1 hr                █████░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 241 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 176 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -93,5 +93,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 02:30:30 UTC
+ Last Updated on 20/10/2026 02:43:09 UTC
 <!--END_SECTION:waka-->
