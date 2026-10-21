@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C484%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C484%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2017%20mins-blue?style=flat)
 
@@ -36,48 +36,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               2 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.27 % 
-Bash                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SSH Config               2 hrs 17 mins       █████████████████████░░░░   83.84 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 51 mins       █████████████████████░░░░   82.78 % 
-VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Chrome                   2 hrs 39 mins       ████████████████████████░   96.96 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-nonebot2                 2 hrs 21 mins       █████████████░░░░░░░░░░░░   50.61 % 
-PRIVATE PROJECT          49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-adapter-qq               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-waka-readme-stats        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-yanyongyu                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+nonebot2                 1 hr 24 mins        █████████████░░░░░░░░░░░░   51.43 % 
+adapter-qq               35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+waka-readme-stats        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+corplink-rs              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PRIVATE PROJECT          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████░░░░   84.01 % 
-Linux                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Mac                      2 hrs 42 mins       █████████████████████████   99.05 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (1.56%)
-
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 176 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +77,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 02:43:09 UTC
+ Last Updated on 21/10/2026 02:37:06 UTC
 <!--END_SECTION:waka-->
