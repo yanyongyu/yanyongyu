@@ -36,41 +36,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               2 hrs 37 mins       ███████████████████░░░░░░   75.75 % 
-Python                   38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+SSH Config               2 hrs 6 mins        ██████████████████░░░░░░░   71.66 % 
+Python                   38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 58 mins       █████████████████████░░░░   85.87 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Chrome                   2 hrs 31 mins       █████████████████████░░░░   85.37 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🐱‍💻 Projects: 
-nonebot2                 1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.53 % 
-githubkit                50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-adapter-qq               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-PRIVATE PROJECT          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-corplink-rs              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+nonebot2                 59 mins             ████████░░░░░░░░░░░░░░░░░   33.50 % 
+githubkit                50 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+adapter-qq               35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+PRIVATE PROJECT          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+corplink-rs              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Mac                      3 hrs 12 mins       ███████████████████████░░   92.58 % 
-Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Mac                      2 hrs 41 mins       ███████████████████████░░   91.30 % 
+Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (5.06%)
+⏱ AI Coding Time: 10 mins (5.93%)
 
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -92,5 +92,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:34:47 UTC
+ Last Updated on 23/10/2026 02:39:06 UTC
 <!--END_SECTION:waka-->
