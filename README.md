@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C486%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C487%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,41 +36,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   39 mins             ████████░░░░░░░░░░░░░░░░░   30.25 % 
-C++                      38 mins             ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-SSH Config               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   1 hr 33 mins        ████████████░░░░░░░░░░░░░   48.58 % 
+C++                      44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+SSH Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Chrome                   1 hr 36 mins        ███████████████████░░░░░░   74.17 % 
-Cursor                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Chrome                   2 hrs 14 mins       ██████████████████░░░░░░░   70.08 % 
+Cursor                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🐱‍💻 Projects: 
-githubkit                1 hr 21 mins        ████████████████░░░░░░░░░   62.64 % 
-PRIVATE PROJECT          43 mins             ████████░░░░░░░░░░░░░░░░░   33.61 % 
-clash-party              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-waka-readme-stats        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-yanyongyu                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+githubkit                1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.48 % 
+PRIVATE PROJECT          1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
+nonebot-plugin-agent-chat17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+nonebot2                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+adapter-qq               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████░░░░   82.22 % 
-Linux                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Mac                      2 hrs 32 mins       ████████████████████░░░░░   79.21 % 
+Linux                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (8.05%)
+⏱ AI Coding Time: 17 mins (9.12%)
 
-✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 3 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -92,5 +92,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 02:24:51 UTC
+ Last Updated on 27/10/2026 03:00:13 UTC
 <!--END_SECTION:waka-->
