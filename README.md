@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C487%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C488%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2035%20mins-blue?style=flat)
 
@@ -36,33 +36,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ████████████░░░░░░░░░░░░░   48.58 % 
-C++                      44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-SSH Config               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   2 hrs 12 mins       ██████████████░░░░░░░░░░░   57.88 % 
+C++                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+SSH Config               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 14 mins       ██████████████████░░░░░░░   70.08 % 
-Cursor                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Chrome                   2 hrs 12 mins       ██████████████░░░░░░░░░░░   57.78 % 
+Cursor                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🐱‍💻 Projects: 
-githubkit                1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.48 % 
-PRIVATE PROJECT          1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
-nonebot-plugin-agent-chat17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-nonebot2                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-adapter-qq               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+PRIVATE PROJECT          1 hr 49 mins        ████████████░░░░░░░░░░░░░   47.87 % 
+githubkit                1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
+nonebot-plugin-agent-chat17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+nonebot2                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+adapter-qq               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       ████████████████████░░░░░   79.21 % 
-Linux                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Mac                      2 hrs 29 mins       ████████████████░░░░░░░░░   65.43 % 
+Linux                    1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (9.12%)
+⏱ AI Coding Time: 17 mins (7.66%)
 
 ✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
 
@@ -82,15 +82,15 @@ Linux                    39 mins             █████░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   58 repos            █████████████████░░░░░░░░   69.05 % 
-Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   57 repos            █████████████████░░░░░░░░   68.67 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
 
 
- Last Updated on 27/10/2026 03:00:13 UTC
+ Last Updated on 28/10/2026 03:10:38 UTC
 <!--END_SECTION:waka-->
