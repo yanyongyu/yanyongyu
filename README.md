@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C493%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C494%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2024%20mins-blue?style=flat)
 
@@ -36,34 +36,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.85 % 
-C++                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Python                   4 hrs 59 mins       █████████████░░░░░░░░░░░░   53.53 % 
+C++                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 53 mins       █████████████░░░░░░░░░░░░   50.08 % 
-Cursor                   2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Chrome                   4 hrs 47 mins       █████████████░░░░░░░░░░░░   51.43 % 
+Cursor                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 🐱‍💻 Projects: 
-githubkit                4 hrs 17 mins       ██████████████░░░░░░░░░░░   55.30 % 
-PRIVATE PROJECT          2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
-nonebot-plugin-agent-chat17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-pyright                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-nonebot2                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+githubkit                4 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.60 % 
+PRIVATE PROJECT          3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+nonebot2                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+nonebot-plugin-agent-chat17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+pyright                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-Mac                      4 hrs               █████████████░░░░░░░░░░░░   51.59 % 
-Linux                    3 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.41 % 
+Mac                      4 hrs 54 mins       █████████████░░░░░░░░░░░░   52.69 % 
+Linux                    4 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (12.13%)
+⏱ AI Coding Time: 56 mins (10.11%)
 
 ✍️ 52 lines written by AI, 36 lines written by hand (59.09% AI-written)
 
@@ -71,7 +71,7 @@ Linux                    3 hrs 45 mins       ███████████�
 
 💵 $0.76 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 GPT                      32 lines            █████████████░░░░░░░░░░░░   52.46 % 
 Sonnet                   29 lines            ████████████░░░░░░░░░░░░░   47.54 % 
@@ -79,7 +79,7 @@ Sonnet                   29 lines            ███████████�
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 59.09% of written lines came from AI
 📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 58.22% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:36:39 UTC
+ Last Updated on 30/10/2026 03:39:35 UTC
 <!--END_SECTION:waka-->
