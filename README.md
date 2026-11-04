@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C495%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C495%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2024%20mins-blue?style=flat)
 
@@ -36,51 +36,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 58 mins       ██████████████░░░░░░░░░░░   56.40 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-C++                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Python                   3 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.74 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+C++                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 25 mins       █████████████░░░░░░░░░░░░   50.16 % 
-Cursor                   2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Chrome                   4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.61 % 
+Cursor                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🐱‍💻 Projects: 
-githubkit                4 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.12 % 
-PRIVATE PROJECT          2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-nonebot2                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-nonebot-plugin-agent-chat17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-pyright                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+githubkit                4 hrs 31 mins       ███████████████░░░░░░░░░░   60.25 % 
+PRIVATE PROJECT          1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+nonebot2                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+pyright                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+QQ-GitHub-Bot            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Mac                      4 hrs 32 mins       █████████████░░░░░░░░░░░░   51.49 % 
-Linux                    4 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.51 % 
+Mac                      4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.61 % 
+Linux                    3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (10.68%)
+⏱ AI Coding Time: 49 mins (10.96%)
 
-✍️ 52 lines written by AI, 36 lines written by hand (59.09% AI-written)
+✍️ 52 lines written by AI, 35 lines written by hand (59.77% AI-written)
 
 🔤 286,447 Input Tokens, 3,129 Output Tokens
 
 💵 $0.76 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
 GPT                      32 lines            █████████████░░░░░░░░░░░░   52.46 % 
 Sonnet                   29 lines            ████████████░░░░░░░░░░░░░   47.54 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.09% of written lines came from AI
+⚖️ Balanced with AI — 59.77% of written lines came from AI
 📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 58.22% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 57.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 04:40:42 UTC
+ Last Updated on 04/11/2026 04:00:23 UTC
 <!--END_SECTION:waka-->
