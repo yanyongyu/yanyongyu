@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C495%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C498%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2024%20mins-blue?style=flat)
 
@@ -36,51 +36,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Git Config               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-C++                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Python                   3 hrs 34 mins       ███████████████████░░░░░░   75.61 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+SSH Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.61 % 
-Cursor                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Copilot CLI              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Chrome                   2 hrs 59 mins       ████████████████░░░░░░░░░   63.31 % 
+VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Cursor                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 
 🐱‍💻 Projects: 
-githubkit                4 hrs 31 mins       ███████████████░░░░░░░░░░   60.25 % 
-PRIVATE PROJECT          1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-nonebot2                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-pyright                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-QQ-GitHub-Bot            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+githubkit                2 hrs 33 mins       ██████████████░░░░░░░░░░░   54.00 % 
+nonebot2                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+PRIVATE PROJECT          51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+QQ-GitHub-Bot            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+adapter-qq               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-Mac                      4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.61 % 
-Linux                    3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.39 % 
+Mac                      3 hrs 6 mins        ████████████████░░░░░░░░░   65.68 % 
+Linux                    1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (10.96%)
-
-✍️ 52 lines written by AI, 35 lines written by hand (59.77% AI-written)
-
-🔤 286,447 Input Tokens, 3,129 Output Tokens
-
-💵 $0.76 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 12 AI Prompts
-
-GPT                      32 lines            █████████████░░░░░░░░░░░░   52.46 % 
-Sonnet                   29 lines            ████████████░░░░░░░░░░░░░   47.54 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.77% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 57.93% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +78,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 04:22:18 UTC
+ Last Updated on 06/11/2026 04:20:09 UTC
 <!--END_SECTION:waka-->
