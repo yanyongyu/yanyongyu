@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C498%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C500%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,47 +36,63 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       ███████████████████░░░░░░   75.61 % 
-Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-SSH Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python                   4 hrs 19 mins       ██████████████████░░░░░░░   70.38 % 
+TOML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+SSH Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 59 mins       ████████████████░░░░░░░░░   63.31 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Cursor                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Chrome                   3 hrs 35 mins       ███████████████░░░░░░░░░░   58.42 % 
+Cursor                   1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+VS Code                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 
 🐱‍💻 Projects: 
-githubkit                2 hrs 33 mins       ██████████████░░░░░░░░░░░   54.00 % 
-nonebot2                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-PRIVATE PROJECT          51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-QQ-GitHub-Bot            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-adapter-qq               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+githubkit                2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.28 % 
+PRIVATE PROJECT          1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+nonebot2                 1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+QQ-GitHub-Bot            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+adapter-qq               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Mac                      3 hrs 6 mins        ████████████████░░░░░░░░░   65.68 % 
-Linux                    1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
+Mac                      3 hrs 42 mins       ███████████████░░░░░░░░░░   60.48 % 
+Linux                    2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.25%)
+
+✍️ 0 lines written by AI, 138 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 1 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 15 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   57 repos            █████████████████░░░░░░░░   68.67 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   55 repos            █████████████████░░░░░░░░   67.90 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
 
 
- Last Updated on 06/11/2026 04:20:09 UTC
+ Last Updated on 07/11/2026 03:50:48 UTC
 <!--END_SECTION:waka-->
