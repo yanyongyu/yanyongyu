@@ -36,36 +36,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 56 mins      ████████████████░░░░░░░░░   63.08 % 
-TOML                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-XML                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   12 hrs 12 mins      ███████████████░░░░░░░░░░   61.76 % 
+TOML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+XML                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.85 % 
-VS Code                  7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
-Chrome                   4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+VS Code                  7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
+Cursor                   7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
+Chrome                   4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          16 hrs 50 mins      █████████████████████░░░░   82.09 % 
-adapter-qq               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-githubkit                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-nonebot2                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-features                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+PRIVATE PROJECT          15 hrs 52 mins      ████████████████████░░░░░   80.24 % 
+adapter-qq               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+githubkit                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+nonebot2                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+features                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Linux                    16 hrs 4 mins       ████████████████████░░░░░   78.32 % 
-Mac                      4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Linux                    15 hrs 5 mins       ███████████████████░░░░░░   76.32 % 
+Mac                      4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (39.1%)
+⏱ AI Coding Time: 8 hrs 1 min (40.57%)
 
-✍️ 2,518 lines written by AI, 216 lines written by hand (92.1% AI-written)
+✍️ 2,518 lines written by AI, 210 lines written by hand (92.3% AI-written)
 
 🔤 9,825,368 Input Tokens, 578,557 Output Tokens
 
@@ -77,10 +77,10 @@ Ep                       2,631 lines         ███████████�
 Grok                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.1% of written lines came from AI
+🤖 AI-Driven — 92.3% of written lines came from AI
 📚 Verbose Prompter — average 2,261 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 29.16% of changed lines were hand-edited
+🚀 High AI Trust — 27.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 04:10:17 UTC
+ Last Updated on 15/11/2026 03:55:58 UTC
 <!--END_SECTION:waka-->
