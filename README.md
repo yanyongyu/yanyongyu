@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C519%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C521%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,51 +36,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 12 mins      ███████████████░░░░░░░░░░   61.76 % 
-TOML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-XML                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   12 hrs 44 mins      ███████████████░░░░░░░░░░   58.10 % 
+TOML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+XML                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-Cursor                   7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
-Chrome                   4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+VS Code                  9 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.01 % 
+Cursor                   7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Chrome                   5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          15 hrs 52 mins      ████████████████████░░░░░   80.24 % 
-adapter-qq               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-githubkit                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-nonebot2                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-features                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+PRIVATE PROJECT          17 hrs 19 mins      ████████████████████░░░░░   79.00 % 
+githubkit                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+adapter-qq               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+nonebot2                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+nonebot-plugin-weather-fi24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Linux                    15 hrs 5 mins       ███████████████████░░░░░░   76.32 % 
-Mac                      4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Linux                    16 hrs 28 mins      ███████████████████░░░░░░   75.09 % 
+Mac                      5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (40.57%)
+⏱ AI Coding Time: 8 hrs 35 mins (39.17%)
 
-✍️ 2,518 lines written by AI, 210 lines written by hand (92.3% AI-written)
+✍️ 2,678 lines written by AI, 172,240 lines written by hand (1.53% AI-written)
 
-🔤 9,825,368 Input Tokens, 578,557 Output Tokens
+🔤 10,765,207 Input Tokens, 631,882 Output Tokens
 
-💵 $400.42 Estimated AI Cost This Week
+💵 $436.91 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 94 AI Prompts
+🧠 19 AI Sessions, 102 AI Prompts
 
-Ep                       2,631 lines         █████████████████████████   99.81 % 
-Grok                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Ep                       2,856 lines         █████████████████████████   99.83 % 
+Grok                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.3% of written lines came from AI
-📚 Verbose Prompter — average 2,261 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 27.54% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.53% of written lines came from AI
+📚 Verbose Prompter — average 2,429 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 98.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +96,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 03:55:58 UTC
+ Last Updated on 16/11/2026 03:56:18 UTC
 <!--END_SECTION:waka-->
