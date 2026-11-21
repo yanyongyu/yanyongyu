@@ -26,9 +26,9 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C528%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C529%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,48 +36,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 35 mins       ██████████████░░░░░░░░░░░   54.99 % 
-Other                    2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 33 mins       ███████████████░░░░░░░░░░   61.93 % 
-Chrome                   5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
+VS Code                  7 hrs 46 mins       ██████████████░░░░░░░░░░░   56.45 % 
+Chrome                   5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.55 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          8 hrs 28 mins       ███████████████░░░░░░░░░░   61.33 % 
-githubkit                2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-nonebot2                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+PRIVATE PROJECT          7 hrs 56 mins       ██████████████░░░░░░░░░░░   57.66 % 
+githubkit                2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+nonebot2                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 nonebot-plugin-weather-fi24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 pyright                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Linux                    8 hrs 18 mins       ███████████████░░░░░░░░░░   60.12 % 
-Mac                      5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.88 % 
+Linux                    7 hrs 22 mins       █████████████░░░░░░░░░░░░   53.49 % 
+Mac                      6 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (43.31%)
+⏱ AI Coding Time: 5 hrs 21 mins (38.94%)
 
-✍️ 1,017 lines written by AI, 172,056 lines written by hand (0.59% AI-written)
+✍️ 808 lines written by AI, 172,056 lines written by hand (0.47% AI-written)
 
-🔤 6,688,099 Input Tokens, 519,256 Output Tokens
+🔤 6,371,249 Input Tokens, 478,881 Output Tokens
 
-💵 $334.51 Estimated AI Cost This Week
+💵 $298.56 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 75 AI Prompts
+🧠 17 AI Sessions, 71 AI Prompts
 
-Ep                       1,135 lines         █████████████████████████   100.00 % 
+Ep                       916 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.59% of written lines came from AI
-📚 Verbose Prompter — average 2,799 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 99.35% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.47% of written lines came from AI
+📚 Verbose Prompter — average 3,222 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 04:57:44 UTC
+ Last Updated on 21/11/2026 04:53:15 UTC
 <!--END_SECTION:waka-->
