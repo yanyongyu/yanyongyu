@@ -36,48 +36,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.04 % 
-Other                    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Python                   4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
+Other                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Bash                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 54 mins       ██████████████░░░░░░░░░░░   57.76 % 
-Chrome                   5 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.24 % 
+VS Code                  6 hrs 31 mins       ████████████████░░░░░░░░░   62.55 % 
+Chrome                   3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          8 hrs 4 mins        ███████████████░░░░░░░░░░   59.02 % 
-githubkit                2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-nonebot2                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-nonebot-plugin-weather-fi24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-pyright                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+PRIVATE PROJECT          6 hrs 36 mins       ████████████████░░░░░░░░░   63.39 % 
+githubkit                1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+nonebot2                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+pyright                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+nonebot-plugin-mortis-ana22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Linux                    7 hrs 29 mins       ██████████████░░░░░░░░░░░   54.79 % 
-Mac                      6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
+Linux                    6 hrs 6 mins        ███████████████░░░░░░░░░░   58.65 % 
+Mac                      4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 29 mins (40.13%)
+⏱ AI Coding Time: 4 hrs 55 mins (47.2%)
 
-✍️ 808 lines written by AI, 172,056 lines written by hand (0.47% AI-written)
+✍️ 648 lines written by AI, 26 lines written by hand (96.14% AI-written)
 
-🔤 6,518,973 Input Tokens, 492,441 Output Tokens
+🔤 5,579,134 Input Tokens, 439,116 Output Tokens
 
-💵 $306.75 Estimated AI Cost This Week
+💵 $270.27 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 74 AI Prompts
+🧠 16 AI Sessions, 66 AI Prompts
 
-Ep                       916 lines           █████████████████████████   100.00 % 
+Ep                       691 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.47% of written lines came from AI
-📚 Verbose Prompter — average 3,330 characters per prompt
+🤖 AI-Driven — 96.14% of written lines came from AI
+📚 Verbose Prompter — average 3,200 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.48% of changed lines were hand-edited
+🚀 High AI Trust — 3.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 04:11:17 UTC
+ Last Updated on 23/11/2026 04:52:05 UTC
 <!--END_SECTION:waka-->
